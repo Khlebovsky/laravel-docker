@@ -1,0 +1,1 @@
+Run **bash init.sh** to create laravel project
